@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\Mac\Home\Downloads\17.11 б≠®ђЃ™ ѓаЃж•ббЃҐ 3\Project1\Source.cpp(27,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+\\Mac\Home\Downloads\17.11 б≠®ђЃ™ ѓаЃж•ббЃҐ 3\Project1\Source.cpp(106,15): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Project1.vcxproj -> \\Mac\Home\Downloads\17.11 б≠®ђЃ™ ѓаЃж•ббЃҐ 3\x64\Debug\Project1.exe
